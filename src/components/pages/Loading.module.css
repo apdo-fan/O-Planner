@@ -1,0 +1,16 @@
+/* Loading.module.css */
+
+.loadingContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .loadingText {
+    font-size: 1.5rem;
+    color: #2c0808;
+    margin-top: 10px;
+  }
+  
