@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Loading from "./Loading";
-import CreditTable from "./CreditTable";
+import CreditTable from "./creditTable";
 import InfoTable from "./InfoTable";
 import styles from "./Main.module.css";
 
