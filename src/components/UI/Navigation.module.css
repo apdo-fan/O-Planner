@@ -1,0 +1,41 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background-color: transparent;
+  border: none;
+}
+
+.rightSide {
+  width: 80px;
+}
+
+.title {
+  margin: 0;
+}
+
+.roundedBox {
+  border-radius: 10px;
+  padding: 8px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.time {
+  margin-right: 10px;
+  text-align: left;
+}
+
+.languageLimit {
+  display: flex;
+  align-items: center;
+}
+
+.language {
+  margin-right: 5px;
+}
+
+.limit {
+  font-weight: bold;
+}

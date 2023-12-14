@@ -1,0 +1,13 @@
+.container {
+    text-align: center;
+    margin: 2% 5% 5% 5%;
+}
+
+.button {
+    margin-top: 3rem;
+    width: max-content;
+    text-align: center;
+    color: #ffffff;
+    background-color: #000000;
+    padding: 10px;
+}
